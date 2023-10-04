@@ -5,8 +5,8 @@
   display: flex; /* Use flexbox layout */
   justify-content: center; /* Center the child elements horizontally */
   align-items: center; /* Center the child elements vertically */
-  width: 100vw; /* Full viewport width */
-  height: 100vh; /* Full viewport height */
+  width: 100%; /* Full viewport width */
+  height: 100%; /* Full viewport height */
 }
 
 /* Apply styles to item-1 */
